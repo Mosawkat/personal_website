@@ -16,7 +16,7 @@
 }
 .loc
 {
-  color:aquamarine;
+  color:deeppink;
   font-size: 20px;
   font-family: 'Plus Jakarta Sans', sans-serif;
 }
@@ -28,4 +28,18 @@
 all_photos
 {
   text-align: center;
+}
+.ig
+{
+    font-size: 30px;
+    text-align: center;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+a.aig
+{
+    font-size: 30px;
+    text-align:center;  
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color:deeppink;
 }
