@@ -1,0 +1,31 @@
+.photo_grid_container
+{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.photo_grid
+{
+  background-color: ;
+  text-align: center;
+}
+.photo_caption
+{
+  color:#3ed54f;
+  font-size: 18px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.loc
+{
+  color:aquamarine;
+  font-size: 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.photos
+{
+  width: 600px;
+  height: 400px;
+}
+all_photos
+{
+  text-align: center;
+}

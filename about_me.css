@@ -1,0 +1,34 @@
+.subs
+{
+    padding-left:30px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.about_myself
+{
+    color:aqua;
+    font-size: 30px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    padding-left:30px;
+}
+.certifications, .g_it
+{
+    color:orange;
+    font-size: 30px;
+}
+.g_it
+{
+    font-size: 20px;
+}
+.g_it_subs
+{
+    color:darkorange;
+}
+.skills
+{
+    color:aqua;
+}
+
+.experience
+{
+}
