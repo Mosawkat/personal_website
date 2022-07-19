@@ -1,0 +1,16 @@
+.techdoc
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    color:black;
+}
+.frames
+{
+    width: 700px;
+    height: 1000px;
+}
+.projectsdiv
+{
+    display: grid;
+    grid-template-columns: auto auto;
+}
