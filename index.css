@@ -1,0 +1,115 @@
+.nav_bar_text
+{
+  font-size: 50px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color:#3ED54F;
+}
+.top_nav_buttons
+{
+  font-size: 30px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 2.5px;
+  padding-right: 0px;
+  text-align: right;
+  font-stretch: expanded;
+  border-style: solid;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom-color:#004712;
+}
+.buttons
+{
+  color:#DA5025;
+  text-decoration: none;
+  width: auto;
+  padding:5px;
+}
+.buttons:hover
+{
+    color: red;
+}
+.grid-container
+{
+  display: grid;
+}
+body
+{
+  background-image: url(walpaper.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-width: 100px;
+  min-height: 900px;
+}
+.grid2
+{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  margin-left: 50px;
+}
+.intro1
+ {
+  padding: 20px;
+  font-size: 40px;
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  background:#7f7f7f;
+  background:rgba(255,255,255,0.5);
+
+}
+.profile_pic
+{
+    flex-shrink: 0;
+	margin: 20px;
+	height: calc(550px + 6vw);
+	width: calc(400px + 6vw);
+	border: calc(8px + 0.2vw) solid transparent;
+	background-origin: border-box;
+	background-clip: content-box, border-box;
+	background-size: cover;
+	box-sizing: border-box;
+	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
+}
+.list1
+{
+  padding: 20px;
+  list-style: square;
+}
+.list1_item
+{
+  text-shadow: 10px;
+}
+.footer_grid
+{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  font-family: 'Roboto Condensed', sans-serif;
+  color:white;
+  padding: 20px;
+  font-size: 18px;
+  text-align: center;
+}
+footer
+{
+    color:black;
+    background-color: red;
+}
+h1
+{
+    font-size: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-decoration: overline;
+}
+.embedR
+{
+    text-align: center;
+}
